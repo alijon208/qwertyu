@@ -1,0 +1,14 @@
+.explore-btn {
+    font-size: 14px;
+    color: #fff;
+    background-color: #22b3c1;
+    border: 1px solid #22b3c1;
+    padding: 12px 30px;
+    border-radius: 25px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    &:hover{
+        background-color: #55c5cf;
+    }
+}

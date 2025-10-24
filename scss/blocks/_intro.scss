@@ -1,0 +1,96 @@
+.intro {
+    background-image: url('../../img/lake.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 71px;
+    padding: 150px;
+    text-align: center;
+}
+
+.intro__info-text {
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.intro__info-title {
+    font-size: 50px;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.intro__info-btn {
+    font-size: 14px;
+    color: #22b3c1;
+    background-color: transparent;
+    border: 1px solid #22b3c1;
+    padding: 12px 30px;
+    border-radius: 25px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+
+    &:hover {
+        background-color: #22b3c1;
+        color: #fff;
+    }
+}
+
+
+
+.intro__bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 60px;
+    background-color: #fff;
+    padding: 30px 60px;
+    border-radius: 61px;
+}
+
+.intro__bottom-list {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.intro__bottom-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.intro__bottom-text {
+    text-align: left;
+    font-size: 20px;
+    color: #22b3c1;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+.intro__bottom-icon{
+    color: #22b3c1;
+    font-size: 24px;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    border: 1px solid #22b3c1;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon{
+    color: #22b3c1;
+}
+
+.intro__bottom-text span {
+    font-size: 15px;
+    color: #afafaf;
+    font-weight: 400;
+}
