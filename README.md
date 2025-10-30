@@ -41,12 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alijon208&show_icons=true&theme=radical" height="165" alt="GitHub stats for alijon208"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alijon208&theme=radical" height="165" alt="GitHub streak for alijon208"/>
-</p>
-
 ---
 
 ### 🌍 Connect With Me
